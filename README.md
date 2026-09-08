@@ -495,6 +495,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [European Business Register](http://www.ebr.org/)
 - [Ezilon](http://www.ezilon.com/)
 - [FindtheCompany](http://www.findthecompany.com/)
+- [FirmenMonitor](https://firmenmonitor.com/) (AT)
 - [Glassdoor](https://www.glassdoor.com/)
 - [globalEdge](http://globaledge.msu.edu/)
 - [Global Tenders](https://www.globaltenders.com/global-tenders-search)
